@@ -1,2 +1,2 @@
 # herliabots
-Herlia Sunucusunda kullandığım botları yakın bir zamanda halka açık bi şekilde paylaşacağım,  beklemede kalın.
+Herlia Sunucusunda kullandığım botları müsait bi zamanda buraya atacağım proje lisanslıdır ücretli bir şekilde dağıtılması **YASAKTIR**
