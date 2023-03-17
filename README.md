@@ -22,6 +22,6 @@ Guard botu slash komutludur botu sunucunuza eklerken application.command seçene
 
 Hayır, herşey bana aittir başkası tarafından paylaşılırsa lisans olduğu için **GEREKLİ İŞLEMLERİ BAŞLATACAĞIM PAYLAŞMANIZI TAVSİYE ETMİYORUM**.
 
-** Bot Glitch, Replit gibi sitelerle uyumlu değildir çalışmaz Visual Studio Code kullanınız.**
+**Bot Glitch, Replit gibi sitelerle uyumlu değildir çalışmaz Visual Studio Code kullanınız.**
 
 
