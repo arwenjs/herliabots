@@ -16,7 +16,7 @@ Hatalı değildir bilgisayarınıza Node.js (16.9.0)  yüklemeniz gerekiyor.
 
 ## Botu kendimiz paylaşabilir miyiz?
 
-Hayır, herşey bana aittir başkası tarafından paylaşılırsa lisans olduğu için **GEREKLİ İŞLEMLERİ BAŞLATACAĞIM PAYLAŞMANIZI TAVSİYE ETMİYORUM**.
+Hayır, herşey bana aittir başkası tarafından paylaşılırsa lisans olduğu için **GEREKLİ İŞLEMLERİ BAŞLATACAĞIM.**.
 
 **Bot Glitch, Replit gibi sitelerle uyumlu değildir çalışmaz Visual Studio Code kullanınız.**
 
