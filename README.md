@@ -1,5 +1,5 @@
 # herliabots
-Herlia Sunucusunda kullandığım botları 3 Haziran 2023 tarihinde paylaşacağım. **YASAKTIR**.
+Herlia Sunucusunda kullandığım botları 3 Haziran 2023 tarihinde paylaşacağım.
 
 
 # Hangi Sürümü Paylaşacaksın
