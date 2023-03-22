@@ -1,22 +1,18 @@
 # herliabots
-Herlia Sunucusunda kullandığım botları müsait bi zamanda buraya atacağım proje lisanslıdır ücretli bir şekilde dağıtılması **YASAKTIR**.
+Herlia Sunucusunda kullandığım botları 3 Haziran 2023 tarihinde paylaşacağım. **YASAKTIR**.
 
 
 # Hangi Sürümü Paylaşacaksın
 - Tüm botlar V14 Sürümüne sahiptir.
 
 # Bazı Görseller
-- Paylaşmadan önce çok yakında atacağım.
+- Paylaşım tarihi 1 Haziran 2023
 
 # SSS (Sıkça Sorulan Sorular)
 
 ## Npm Hatası alıyorum botların hatalı mı?
 
-Hatalı değildir bilgisayarınıza Node.js (16.9.0) yüklemeniz gerekmektedir.
-
-## Herşey eksiksiz olmasına rağmen Guard bi türlü aktif olmadı neden?
-
-Guard botu slash komutludur botu sunucunuza eklerken application.command seçeneğini tikleyerek ekleyin ✅
+Hatalı değildir bilgisayarınıza Node.js (16.9.0)  yüklemeniz gerekiyor.
 
 ## Botu kendimiz paylaşabilir miyiz?
 
